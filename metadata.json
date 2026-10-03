@@ -1,0 +1,7 @@
+{
+  "name": "FoodHub - Delicious Food, Delivered to Your Door",
+  "description": "Modern food ordering platform with fresh Indian and global cuisines, live order tracking, rich menu, and AI dish generation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
